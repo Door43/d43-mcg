@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcg:home|Door43 (mcg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcg|d43-mcg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcg/archive/master.zip|d43-mcg.zip]]
+
+**Recent Changes**
+{{changes>ns = mcg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcg|Ethnologue data]]
+
